@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Seminar/webinar &#8211; ACES</title>
+	<atom:link href="http://127.0.0.1/wordpress/category/seminar-webinar/feed/" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Association of Civil Engineering Students</description>
+	<lastBuildDate>Thu, 27 Jan 2022 19:04:08 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
+	<title>Seminar/webinar &#8211; ACES</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Getting Started with Git&#038;Github</title>
+		<link>./../../../getting-started-with-gitgithub/index.html</link>
+					<comments>./../../../getting-started-with-gitgithub/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Tue, 25 Jan 2022 11:36:38 +0000</pubDate>
+				<category><![CDATA[2020]]></category>
+		<category><![CDATA[Seminar/webinar]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=180</guid>
+
+					<description><![CDATA[In this situation of pandemic Association of Civil Engineering Students (ACES) organized a webinar (web seminar) on Github. The webinar was conducted on 27th September 2020 and started at 11 P.M. on Sunday. The event was conducted on the Zoom platform. The speaker for the same was Amanjot Singh (CSE department) and Tandeep Singh (Ex [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>In this situation of pandemic Association of Civil Engineering Students (ACES) organized a webinar (web seminar) on Github. The webinar was conducted on 27th September 2020 and started at 11 P.M. on Sunday. The event was conducted on the Zoom platform. The speaker for the same was Amanjot Singh (CSE department) and Tandeep Singh (Ex M.Tech). Guest of Honor Dr. H.S Rai, H.O.D of Civil Engineering Department at GNDEC shared his prized words with the participants, motivating them and telling them the importance of Github. The event was started off by ACES faculty advisor Yuvraj Singh and Aman Mittal (Discipline Head) and was passed onto the speakers. Both the speakers shared their views on Github and tried to clear all the doubts of the participants. The webinar had 110 participants and all participated in the public poll.<br>At last, the link for the feedback form was shared with the participants to get their valuable comments.<br>Event organizers were<br>Name<br>Year<br>URN<br>Ananya Verma<br>D2<br>1904816<br>Sharanjit Singh<br>D2<br>1904922<br>Prateek Kant<br>D2 1904893<br>Nikhil Arya<br>D2<br>1904890<br>Japjyot Singh<br>D3<br>1805054<br>Tejas Walia<br>D3<br>1805113<br>Ujjwaldeep Singh<br>D3<br>1805117<br>Charanpreet Singh<br>D3<br>1805029<br>Minkle Motan<br>D3<br>1904962<br>Manpreet Singh Bains<br>D3<br>1805076<br>Amanpreet Kaur<br>D3<br>1805008<br>Harshdeep Singh<br>D3<br>1805049<br>Aman Mittal<br>D3<br>1805006</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../getting-started-with-gitgithub/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
