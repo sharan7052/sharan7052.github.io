@@ -9,9 +9,9 @@
 	<title>
 	Comments for ACES	</title>
 	<atom:link href="http://127.0.0.1/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>./../../index.html</link>
+	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 27 Jan 2022 19:13:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Jan 2022 08:31:48 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
