@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Sat, 29 Jan 2022 06:55:47 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jan 2022 08:40:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,24 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Race to Win</title>
+		<link>https://acesgndec.me/race-to-win/</link>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 08:07:27 +0000</pubDate>
+				<category><![CDATA[2021-2022]]></category>
+		<category><![CDATA[Fun events]]></category>
+		<guid isPermaLink="false">https://acesgndec.me/?p=1073</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://acesgndec.me/race-to-win/">Race to Win</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://acesgndec.me/race-to-win/">Race to Win</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>Team 2019-2020</title>
 		<link>https://acesgndec.me/team-2019-2020/</link>
 		
@@ -70,7 +88,7 @@
 				<category><![CDATA[team]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=626</guid>
 
-					<description><![CDATA[<p>ACES Team (July, 2021 &#8211; June, 2020) Faculty Head of ACES Dr. Punitapal SIngh Chemma Faculty Head Dr. Punitapal SIngh Chemma Faculty Head A small river named Duden flows by their place and supplies it with the necessary Phone:+1 (859) 254-6589 Email:info@example.com Faculty Advisors of ACES Prof. Yuvraj Singh Facuty Advisor Prof. Yuvraj Singh Facuty [&#8230;]</p>
+					<description><![CDATA[<p>ACES Team (July, 2021 &#8211; June, 2020) Faculty Head of ACES Dr. Punitapal SIngh Chemma Faculty Head Dr. Punitapal SIngh Chemma Faculty Head A small river named Duden flows by their place and supplies it with the necessary Email:ppsc@gndec.ac.in Faculty Advisors of ACES Prof. Yuvraj Singh Facuty Advisor Prof. Yuvraj Singh Facuty Advisor Email:yuvraj_singh@gndec.ac.in Prof. [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/team-2021-2022/">Team 2021-2022</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="626" class="elementor elementor-626" data-elementor-settings="[]">
@@ -118,17 +136,9 @@
 
 									<div class="profile-footer">
 						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-561a23d">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
 			<li class="elementor-repeater-item-998096d">
-			<a href="#">
+			<a href="mailto:ppsc@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-20fcd3d">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-github"></i>			</a>
 		</li>
 	</ul>
 					</div>
@@ -153,23 +163,14 @@
 									A small river named Duden flows by their place and supplies it with the necessary								</div>
 
 																	<ul class="ekit-team-modal-list">
-																					<li><strong>Phone:</strong><a href="tel:%2B1+%28859%29+254-6589">+1 (859) 254-6589</a></li>
 										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
+																					<li><strong>Email:</strong><a href="mailto:ppsc@gndec.ac.in">ppsc@gndec.ac.in</a></li>
 																			</ul>
 																
 								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-561a23d">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
 			<li class="elementor-repeater-item-998096d">
-			<a href="#">
+			<a href="mailto:ppsc@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-20fcd3d">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-github"></i>			</a>
 		</li>
 	</ul>
 							</div>
@@ -187,9 +188,9 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-accaeac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="accaeac" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5099caa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5099caa" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-9c78b4a" data-id="9c78b4a" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-82ec66b" data-id="82ec66b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2c31065 elementor-widget elementor-widget-elementskit-team" data-id="2c31065" data-element_type="widget" data-widget_type="elementskit-team.default">
 				<div class="elementor-widget-container">
@@ -214,15 +215,15 @@
 									<div class="profile-footer">
 						<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:yuvraj_singh@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
 		</li>
 			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
+			<a href="https://www.instagram.com/yuvrajsingh_23/" target="_blank">
 				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
 		</li>
 			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
+			<a href="https://github.com/yuvrajsingh23">
 				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
@@ -245,24 +246,24 @@
 								<p class="ekit-team-modal-position">Facuty Advisor</p>
 								
 								<div class="ekit-team-modal-content">
-									A small river named Duden flows by their place and supplies it with the necessary								</div>
+																	</div>
 
 																	<ul class="ekit-team-modal-list">
 										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
+																					<li><strong>Email:</strong><a href="mailto:yuvraj_singh@gndec.ac.in">yuvraj_singh@gndec.ac.in</a></li>
 																			</ul>
 																
 								<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:yuvraj_singh@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
 		</li>
 			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
+			<a href="https://www.instagram.com/yuvrajsingh_23/" target="_blank">
 				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
 		</li>
 			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
+			<a href="https://github.com/yuvrajsingh23">
 				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
@@ -275,7 +276,7 @@
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-136e784" data-id="136e784" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-264d05e" data-id="264d05e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f3c8b1f elementor-widget elementor-widget-elementskit-team" data-id="f3c8b1f" data-element_type="widget" data-widget_type="elementskit-team.default">
 				<div class="elementor-widget-container">
@@ -300,16 +301,8 @@
 									<div class="profile-footer">
 						<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:mandeep_ce@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
 					</div>
@@ -331,25 +324,17 @@
 								<p class="ekit-team-modal-position">Facuty Advisor</p>
 								
 								<div class="ekit-team-modal-content">
-									A small river named Duden flows by their place and supplies it with the necessary								</div>
+																	</div>
 
 																	<ul class="ekit-team-modal-list">
 										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
+																					<li><strong>Email:</strong><a href="mailto:	mandeep_ce@gndec.ac.in">	mandeep_ce@gndec.ac.in</a></li>
 																			</ul>
 																
 								<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:mandeep_ce@gndec.ac.in">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
 							</div>
@@ -361,7 +346,7 @@
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-93b09c3" data-id="93b09c3" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f5d4d6a" data-id="f5d4d6a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-8acd0cf elementor-widget elementor-widget-elementskit-team" data-id="8acd0cf" data-element_type="widget" data-widget_type="elementskit-team.default">
 				<div class="elementor-widget-container">
@@ -386,16 +371,8 @@
 									<div class="profile-footer">
 						<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:sukhwinderpalsingh92@gmail.com">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
 					</div>
@@ -421,193 +398,13 @@
 
 																	<ul class="ekit-team-modal-list">
 										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
+																					<li><strong>Email:</strong><a href="mailto:	sukhwinderpalsingh92@gmail.com">	sukhwinderpalsingh92@gmail.com</a></li>
 																			</ul>
 																
 								<ul class="ekit-team-social-list">
 			<li class="elementor-repeater-item-754874c">
-			<a href="#">
+			<a href="mailto:sukhwinderpalsingh92@gmail.com">
 				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-	</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-				</div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-73c213e" data-id="73c213e" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-02b920e elementor-widget elementor-widget-elementskit-team" data-id="02b920e" data-element_type="widget" data-widget_type="elementskit-team.default">
-				<div class="elementor-widget-container">
-			<div class="ekit-wid-con">								
-		<div class="profile-card elementor-animation-shrink text-center ekit-team-style-default">
-							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_02b920e" class="ekit-team-popup">
-						
-				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#02b920e" >
-					<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/avneet-mam-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />				</div><!-- .profile-header END -->
-							</a>
-						
-
-				<div class="profile-body">
-					
-					<h2 class="profile-title">
-											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_02b920e" class="ekit-team-popup">
-						Prof. Avneet Kaur						</a>
-											</h2>
-					<p class="profile-designation">Facuty Advisor</p>
-									</div><!-- .profile-body END -->
-
-									<div class="profile-footer">
-						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-	</ul>
-					</div>
-									</div>
-							
-			
-					<div class="zoom-anim-dialog mfp-hide elementskit-team-popup" id="ekit_team_modal_02b920e" tabindex="-1" role="dialog" aria-hidden="true">
-				<div class="modal-dialog modal-dialog-centered" role="document">
-					<div class="modal-content">
-						<button type="button" class="ekit-team-modal-close">
-							<i aria-hidden="true" class="fas fa-times"></i>						</button>
-
-						<div class="modal-body">
-															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/avneet-mam-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
-							
-							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Prof. Avneet Kaur</h2>
-								<p class="ekit-team-modal-position">Facuty Advisor</p>
-								
-								<div class="ekit-team-modal-content">
-									A small river named Duden flows by their place and supplies it with the necessary								</div>
-
-																	<ul class="ekit-team-modal-list">
-										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
-																			</ul>
-																
-								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-	</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-				</div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-388fe3b" data-id="388fe3b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4cc458d elementor-widget elementor-widget-elementskit-team" data-id="4cc458d" data-element_type="widget" data-widget_type="elementskit-team.default">
-				<div class="elementor-widget-container">
-			<div class="ekit-wid-con">								
-		<div class="profile-card elementor-animation-shrink text-center ekit-team-style-default">
-							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_4cc458d" class="ekit-team-popup">
-						
-				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#4cc458d" >
-					<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/pritpal-mam-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />				</div><!-- .profile-header END -->
-							</a>
-						
-
-				<div class="profile-body">
-					
-					<h2 class="profile-title">
-											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_4cc458d" class="ekit-team-popup">
-						Prof. Paritpal Kaur						</a>
-											</h2>
-					<p class="profile-designation">Facuty Advisor</p>
-									</div><!-- .profile-body END -->
-
-									<div class="profile-footer">
-						<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
-		</li>
-	</ul>
-					</div>
-									</div>
-							
-			
-					<div class="zoom-anim-dialog mfp-hide elementskit-team-popup" id="ekit_team_modal_4cc458d" tabindex="-1" role="dialog" aria-hidden="true">
-				<div class="modal-dialog modal-dialog-centered" role="document">
-					<div class="modal-content">
-						<button type="button" class="ekit-team-modal-close">
-							<i aria-hidden="true" class="fas fa-times"></i>						</button>
-
-						<div class="modal-body">
-															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/pritpal-mam-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
-							
-							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Prof. Paritpal Kaur</h2>
-								<p class="ekit-team-modal-position">Facuty Advisor</p>
-								
-								<div class="ekit-team-modal-content">
-									A small river named Duden flows by their place and supplies it with the necessary								</div>
-
-																	<ul class="ekit-team-modal-list">
-										
-																					<li><strong>Email:</strong><a href="mailto:info@example.com">info@example.com</a></li>
-																			</ul>
-																
-								<ul class="ekit-team-social-list">
-			<li class="elementor-repeater-item-754874c">
-			<a href="#">
-				<i aria-hidden="true" class="icon icon-email"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-5ab9556">
-			<a href="#" target="_blank">
-				<i aria-hidden="true" class="icon icon-instagram-1"></i>			</a>
-		</li>
-			<li class="elementor-repeater-item-1a248c0">
-			<a href="#">
-				<i aria-hidden="true" class="fab fa-github"></i>			</a>
 		</li>
 	</ul>
 							</div>
@@ -644,7 +441,7 @@
 							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_364e4bb" class="ekit-team-popup">
 						
 				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#364e4bb" >
-					<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/manprret-singh-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" />				</div><!-- .profile-header END -->
+					<img loading="lazy" width="163" height="208" src="https://acesgndec.me/wp-content/uploads/2022/01/manprret-singh.png" class="attachment-full size-full" alt="" />				</div><!-- .profile-header END -->
 							</a>
 						
 
@@ -684,7 +481,7 @@
 
 						<div class="modal-body">
 															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/manprret-singh-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
+									<img loading="lazy" width="163" height="208" src="https://acesgndec.me/wp-content/uploads/2022/01/manprret-singh.png" class="attachment-full size-full" alt="" />								</div>
 							
 							<div class="ekit-team-modal-info has-img">
 								<h2 class="ekit-team-modal-title">Mapreet Singh Bains</h2>
@@ -730,7 +527,7 @@
 							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_d8d693c" class="ekit-team-popup">
 						
 				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#d8d693c" >
-					<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/charanpreet-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" />				</div><!-- .profile-header END -->
+					<img loading="lazy" width="283" height="348" src="https://acesgndec.me/wp-content/uploads/2022/01/charanpreet.png" class="attachment-full size-full" alt="" />				</div><!-- .profile-header END -->
 							</a>
 						
 
@@ -770,7 +567,7 @@
 
 						<div class="modal-body">
 															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/charanpreet-150x150.png" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
+									<img loading="lazy" width="283" height="348" src="https://acesgndec.me/wp-content/uploads/2022/01/charanpreet.png" class="attachment-full size-full" alt="" />								</div>
 							
 							<div class="ekit-team-modal-info has-img">
 								<h2 class="ekit-team-modal-title">Charanpreet Singh</h2>
@@ -816,7 +613,7 @@
 							<a href="javascript:void(0)" data-mfp-src="#ekit_team_modal_cbbd506" class="ekit-team-popup">
 						
 				<div class="profile-header ekit-team-img ekit-img-overlay ekit-team-img-block"  data-toggle="modal" data-target="ekit_team_modal_#cbbd506" >
-					<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/Sharanjit-Singh-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />				</div><!-- .profile-header END -->
+					<img loading="lazy" width="1920" height="2560" src="https://acesgndec.me/wp-content/uploads/2022/01/Sharanjit-Singh-scaled.jpg" class="attachment-full size-full" alt="" />				</div><!-- .profile-header END -->
 							</a>
 						
 
@@ -856,7 +653,7 @@
 
 						<div class="modal-body">
 															<div class="ekit-team-modal-img">
-									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/Sharanjit-Singh-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
+									<img loading="lazy" width="1920" height="2560" src="https://acesgndec.me/wp-content/uploads/2022/01/Sharanjit-Singh-scaled.jpg" class="attachment-full size-full" alt="" />								</div>
 							
 							<div class="ekit-team-modal-info has-img">
 								<h2 class="ekit-team-modal-title">Sharanjit Singh</h2>
@@ -910,7 +707,7 @@
 					
 					<h2 class="profile-title">
 											<a  href="javascript:void(0)" data-mfp-src="#ekit_team_modal_346f283" class="ekit-team-popup">
-						Mehakdeep Singh						</a>
+						Mehakdeep Singh Sandhu						</a>
 											</h2>
 					<p class="profile-designation">Event Coordinator</p>
 									</div><!-- .profile-body END -->
@@ -945,7 +742,7 @@
 									<img loading="lazy" width="150" height="150" src="https://acesgndec.me/wp-content/uploads/2022/01/Mehakdeep-Singh-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" />								</div>
 							
 							<div class="ekit-team-modal-info has-img">
-								<h2 class="ekit-team-modal-title">Mehakdeep Singh</h2>
+								<h2 class="ekit-team-modal-title">Mehakdeep Singh Sandhu</h2>
 								<p class="ekit-team-modal-position">Event Coordinator</p>
 								
 								<div class="ekit-team-modal-content">
@@ -1713,9 +1510,8 @@
 		
 			</item>
 		<item>
-		<title>Doorway to ACES (recruitments)</title>
+		<title>Doorway to ACES (Recruitments)</title>
 		<link>https://acesgndec.me/doorway-to-aces-recruitments/</link>
-					<comments>https://acesgndec.me/doorway-to-aces-recruitments/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Tue, 25 Jan 2022 11:43:24 +0000</pubDate>
@@ -1724,24 +1520,12 @@
 		<category><![CDATA[Upcoming Events]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=182</guid>
 
-					<description><![CDATA[<p>Doorway to ACES (Online Interviews) ACES online Interviews to become Active members&#160; Enthusiasm can help you find the new doors, but it takes passion to open them.Learn everything you can, anytime you can, from anyone you can, there will always come a time when you will be grateful what you did!!! Association of Civil Engineering [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://acesgndec.me/doorway-to-aces-recruitments/">Doorway to ACES (recruitments)</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+					<description><![CDATA[<p>ACES online Interviews to become Active members&#160; Enthusiasm can help you find the new doors, but it takes passion to open them. Learn everything you can, anytime you can, from anyone you can, there will always come a time when you will be grateful what you did!!! Association of Civil Engineering Students One of the [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://acesgndec.me/doorway-to-aces-recruitments/">Doorway to ACES (Recruitments)</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="182" class="elementor elementor-182" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-ed7ce5c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ed7ce5c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-469f6a0" data-id="469f6a0" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-ecb14f7 elementor-widget elementor-widget-heading" data-id="ecb14f7" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Doorway to ACES (Online Interviews)</h2>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e84e891 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e84e891" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-e84e891 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e84e891" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a6620ed" data-id="a6620ed" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -1797,35 +1581,9 @@
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://acesgndec.me/doorway-to-aces-recruitments/">Doorway to ACES (recruitments)</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+		<p>The post <a rel="nofollow" href="https://acesgndec.me/doorway-to-aces-recruitments/">Doorway to ACES (Recruitments)</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://acesgndec.me/doorway-to-aces-recruitments/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Getting Started with Git&#038;Github</title>
-		<link>https://acesgndec.me/getting-started-with-gitgithub/</link>
-					<comments>https://acesgndec.me/getting-started-with-gitgithub/#respond</comments>
-		
-		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Tue, 25 Jan 2022 11:36:38 +0000</pubDate>
-				<category><![CDATA[2019-2020]]></category>
-		<category><![CDATA[Seminar/webinar]]></category>
-		<guid isPermaLink="false">https://acesgndec.me/?p=180</guid>
-
-					<description><![CDATA[<p>In this situation of pandemic Association of Civil Engineering Students (ACES) organized a webinar (web seminar) on Github. The webinar was conducted on 27th September 2020 and started at 11 P.M. on Sunday. The event was conducted on the Zoom platform. The speaker for the same was Amanjot Singh (CSE department) and Tandeep Singh (Ex [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://acesgndec.me/getting-started-with-gitgithub/">Getting Started with Git&#038;Github</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>In this situation of pandemic Association of Civil Engineering Students (ACES) organized a webinar (web seminar) on Github. The webinar was conducted on 27th September 2020 and started at 11 P.M. on Sunday. The event was conducted on the Zoom platform. The speaker for the same was Amanjot Singh (CSE department) and Tandeep Singh (Ex M.Tech). Guest of Honor Dr. H.S Rai, H.O.D of Civil Engineering Department at GNDEC shared his prized words with the participants, motivating them and telling them the importance of Github. The event was started off by ACES faculty advisor Yuvraj Singh and Aman Mittal (Discipline Head) and was passed onto the speakers. Both the speakers shared their views on Github and tried to clear all the doubts of the participants. The webinar had 110 participants and all participated in the public poll.<br>At last, the link for the feedback form was shared with the participants to get their valuable comments.<br>Event organizers were<br>Name<br>Year<br>URN<br>Ananya Verma<br>D2<br>1904816<br>Sharanjit Singh<br>D2<br>1904922<br>Prateek Kant<br>D2 1904893<br>Nikhil Arya<br>D2<br>1904890<br>Japjyot Singh<br>D3<br>1805054<br>Tejas Walia<br>D3<br>1805113<br>Ujjwaldeep Singh<br>D3<br>1805117<br>Charanpreet Singh<br>D3<br>1805029<br>Minkle Motan<br>D3<br>1904962<br>Manpreet Singh Bains<br>D3<br>1805076<br>Amanpreet Kaur<br>D3<br>1805008<br>Harshdeep Singh<br>D3<br>1805049<br>Aman Mittal<br>D3<br>1805006</p>
-<p>The post <a rel="nofollow" href="https://acesgndec.me/getting-started-with-gitgithub/">Getting Started with Git&#038;Github</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://acesgndec.me/getting-started-with-gitgithub/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

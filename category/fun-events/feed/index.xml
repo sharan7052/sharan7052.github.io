@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fun events Archives - ACES</title>
+	<atom:link href="http://127.0.0.1/wordpress/category/fun-events/feed/" rel="self" type="application/rss+xml" />
+	<link>https://acesgndec.me</link>
+	<description>Association of Civil Engineering Students</description>
+	<lastBuildDate>Sun, 30 Jan 2022 08:10:26 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9</generator>
+
+<image>
+	<url>https://acesgndec.me/wp-content/uploads/2022/01/cropped-ACES-PNG-32x32.png</url>
+	<title>Fun events Archives - ACES</title>
+	<link>https://acesgndec.me</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Race to Win</title>
+		<link>https://acesgndec.me/race-to-win/</link>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Sun, 30 Jan 2022 08:07:27 +0000</pubDate>
+				<category><![CDATA[2021-2022]]></category>
+		<category><![CDATA[Fun events]]></category>
+		<guid isPermaLink="false">https://acesgndec.me/?p=1073</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="https://acesgndec.me/race-to-win/">Race to Win</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://acesgndec.me/race-to-win/">Race to Win</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

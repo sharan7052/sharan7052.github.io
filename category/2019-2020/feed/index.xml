@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/2019-2020/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 27 Jan 2022 19:04:08 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Jan 2022 08:37:59 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Getting Started with Git&#038;Github</title>
 		<link>https://acesgndec.me/getting-started-with-gitgithub/</link>
-					<comments>https://acesgndec.me/getting-started-with-gitgithub/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Tue, 25 Jan 2022 11:36:38 +0000</pubDate>
@@ -46,8 +45,6 @@
 <p>The post <a rel="nofollow" href="https://acesgndec.me/getting-started-with-gitgithub/">Getting Started with Git&#038;Github</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://acesgndec.me/getting-started-with-gitgithub/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
