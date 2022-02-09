@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/fun-events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Tue, 08 Feb 2022 17:29:06 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 09 Feb 2022 14:59:39 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,7 +32,7 @@
 		<link>https://acesgndec.me/race-to-win/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Sun, 30 Jan 2022 08:07:27 +0000</pubDate>
+		<pubDate>Tue, 12 Oct 2021 08:07:27 +0000</pubDate>
 				<category><![CDATA[2021-2022]]></category>
 		<category><![CDATA[Fun events]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=1073</guid>
@@ -117,11 +117,9 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-def8951" data-id="def8951" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b6ec55a elementor-widget elementor-widget-eael-advanced-data-table" data-id="b6ec55a" data-element_type="widget" data-widget_type="eael-advanced-data-table.default">
+								<div class="elementor-element elementor-element-1958dcf elementor-widget elementor-widget-text-editor" data-id="1958dcf" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<div class="ea-advanced-data-table-wrap" data-id="b6ec55a"><div class="ea-advanced-data-table-wrap-inner">
-                <table class="ea-advanced-data-table ea-advanced-data-table-static ea-advanced-data-table-b6ec55a ea-advanced-data-table-sortable" data-id="b6ec55a"><thead><tr><th><p>Name</p></th><th><p>Branch</p></th><th><p>Year</p></th><th><p>URN</p></th></tr></thead><tbody><tr><td><p class="ql-align-center">Manjot singh</p></td><td><p class="ql-align-center"> CSE</p></td><td><p> 2nd Year</p></td><td><p>2004622</p></td></tr><tr><td><p>Dilpreet kaur</p></td><td><p> CSE</p></td><td><p> 2nd Year</p></td><td><p> 2004559</p></td></tr><tr><td><p>   Avneet kaur</p></td><td><p> CSE</p></td><td><p> 2nd Year</p></td><td><p> 2004556</p></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
-            </div></div>		</div>
+							<table width="291"><tbody><tr><td width="136"><b>Name</b></td><td width="50"><b>Branch</b></td><td width="35"><b>Year</b></td><td width="70"><b>URN</b></td></tr><tr><td>Manjot Singh</td><td>CSE</td><td>D2</td><td>2004622</td></tr><tr><td>Dilpreet Kaur</td><td>CSE</td><td>D2</td><td>2004559</td></tr><tr><td>Avneet Kaur</td><td>CSE</td><td>D2</td><td>2004556</td></tr></tbody></table>						</div>
 				</div>
 					</div>
 		</div>
@@ -151,11 +149,9 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-cbf5529" data-id="cbf5529" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-bf680ec elementor-widget elementor-widget-eael-advanced-data-table" data-id="bf680ec" data-element_type="widget" data-widget_type="eael-advanced-data-table.default">
+								<div class="elementor-element elementor-element-6e03c3d elementor-widget elementor-widget-text-editor" data-id="6e03c3d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<div class="ea-advanced-data-table-wrap" data-id="bf680ec"><div class="ea-advanced-data-table-wrap-inner">
-                <table class="ea-advanced-data-table ea-advanced-data-table-static ea-advanced-data-table-bf680ec ea-advanced-data-table-sortable" data-id="bf680ec"><thead><tr><th><p>Name</p></th><th><p>Branch</p></th><th><p>Year</p></th><th><p>URN</p></th></tr></thead><tbody><tr><td><p>Kajal Chugh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p><br></p></td></tr><tr><td><p>Arshdeep Singh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p><br></p></td></tr><tr><td><p>ishpreet Singh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p><br></p></td></tr></tbody></table>
-            </div></div>		</div>
+							<table width="248"><tbody><tr><td width="62"><strong>Name</strong></td><td width="62"><strong>Branch</strong></td><td width="62"><strong>Year</strong></td><td width="62"><strong>URN</strong></td></tr><tr><td>Amandeep Dubey</td><td>ECE</td><td>D2</td><td> </td></tr><tr><td>Alok Kumar</td><td>ECE </td><td>D2</td><td> </td></tr><tr><td>Adarsh Singh</td><td>ECE</td><td>D2</td><td> </td></tr></tbody></table><p> </p>						</div>
 				</div>
 					</div>
 		</div>
@@ -185,11 +181,9 @@
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4a79626" data-id="4a79626" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-8a71741 elementor-widget elementor-widget-eael-advanced-data-table" data-id="8a71741" data-element_type="widget" data-widget_type="eael-advanced-data-table.default">
+								<div class="elementor-element elementor-element-a74e9b6 elementor-widget elementor-widget-text-editor" data-id="a74e9b6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<div class="ea-advanced-data-table-wrap" data-id="8a71741"><div class="ea-advanced-data-table-wrap-inner">
-                <table class="ea-advanced-data-table ea-advanced-data-table-static ea-advanced-data-table-8a71741 ea-advanced-data-table-sortable" data-id="8a71741"><thead><tr><th><p>Name</p></th><th><p>Branch</p></th><th><p>Year</p></th><th><p>URN</p></th></tr></thead><tbody><tr><td><p>Kajal Chugh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p>2004693</p></td></tr><tr><td><p>Arshdeep Singh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p>2004697</p></td></tr><tr><td><p>ishpreet Singh</p></td><td><p>CSE</p></td><td><p>3rd Year</p></td><td><p>2004699</p></td></tr></tbody></table>
-            </div></div>		</div>
+							<table width="275"><tbody><tr><td width="118"><strong>Name</strong></td><td width="53"><strong>Branch</strong></td><td width="35"><strong>Year</strong></td><td width="69"><strong>URN</strong></td></tr><tr><td>Kajal Chugh</td><td>CSE</td><td>D3</td><td>2004693</td></tr><tr><td>Arshdeep Singh</td><td>CSE</td><td>D3</td><td>2004697</td></tr><tr><td>Ishpreet Singh</td><td>CSE</td><td>D3</td><td>2004699</td></tr></tbody></table>						</div>
 				</div>
 					</div>
 		</div>
@@ -241,7 +235,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6a07dc2 elementor-widget elementor-widget-text-editor" data-id="6a07dc2" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<ul><li><span style="color: #000000;">Yuvraj Singh</span></li><li><span style="color: #000000;">Mandeep Kaur</span></li><li><span style="color: #000000;">Sukhwinderpal Singh</span></li></ul>						</div>
+							<table style="height: 111px;" width="233"><tbody><tr><td width="118"><strong>Yuvraj Singh</strong></td></tr><tr><td><strong>Mandeep Kaur</strong></td></tr><tr><td><strong>Sukhwinderpal Singh</strong></td></tr></tbody></table>						</div>
 				</div>
 					</div>
 		</div>
