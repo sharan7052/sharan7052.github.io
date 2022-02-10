@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/wishes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 10 Feb 2022 04:35:58 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Feb 2022 10:28:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -65,7 +65,9 @@ On this day the members of aces showed their respect towards teachers by wishing
 								<div class="elementor-element elementor-element-e9c504c elementor-widget elementor-widget-image" data-id="e9c504c" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="768" height="1086" src="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg 768w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-212x300.jpg 212w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-724x1024.jpg 724w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-1086x1536.jpg 1086w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-1448x2048.jpg 1448w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES.jpg 1587w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Teacher&#039;s Day - ACES">
+							<img width="768" height="1086" src="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-768x1086.jpg 768w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-212x300.jpg 212w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-724x1024.jpg 724w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-1086x1536.jpg 1086w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES-1448x2048.jpg 1448w, https://acesgndec.me/wp-content/uploads/2021/09/Teachers-Day-ACES.jpg 1587w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>

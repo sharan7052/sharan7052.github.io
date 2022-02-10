@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/fun-events/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Thu, 10 Feb 2022 05:35:47 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Feb 2022 11:04:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -58,7 +58,9 @@
 								<div class="elementor-element elementor-element-4c5a964 elementor-widget elementor-widget-image" data-id="4c5a964" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="724" height="1024" src="https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-724x1024.jpg 724w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-212x300.jpg 212w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-768x1086.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-1086x1536.jpg 1086w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-1448x2048.jpg 1448w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />															</div>
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>													<a href="https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-scaled.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="ACES Race to Win Flyer">
+							<img width="724" height="1024" src="https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-724x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-724x1024.jpg 724w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-212x300.jpg 212w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-768x1086.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-1086x1536.jpg 1086w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-1448x2048.jpg 1448w, https://acesgndec.me/wp-content/uploads/2022/01/ACES-Race-to-Win-Flyer-1-scaled.jpg 1810w" sizes="(max-width: 724px) 100vw, 724px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>
@@ -127,7 +129,9 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c354225 elementor-widget elementor-widget-image" data-id="c354225" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/1st-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/1st-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/1st-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/1st-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/1st.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+																<a href="https://acesgndec.me/wp-content/uploads/2022/01/1st.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="1st">
+							<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/1st-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/1st-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/1st-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/1st-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/1st.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>
@@ -159,7 +163,9 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c94ee3e elementor-widget elementor-widget-image" data-id="c94ee3e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/2nd-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/2nd-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/2nd-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/2nd-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/2nd.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+																<a href="https://acesgndec.me/wp-content/uploads/2022/01/2nd.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="2nd">
+							<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/2nd-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/2nd-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/2nd-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/2nd-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/2nd.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>
@@ -191,7 +197,9 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-96b1191 elementor-widget elementor-widget-image" data-id="96b1191" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/3rd-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/3rd-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/3rd-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/3rd-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/3rd.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />															</div>
+																<a href="https://acesgndec.me/wp-content/uploads/2022/01/3rd.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="3rd">
+							<img width="768" height="576" src="https://acesgndec.me/wp-content/uploads/2022/01/3rd-768x576.jpg" class="attachment-medium_large size-medium_large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/01/3rd-768x576.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/01/3rd-300x225.jpg 300w, https://acesgndec.me/wp-content/uploads/2022/01/3rd-1024x768.jpg 1024w, https://acesgndec.me/wp-content/uploads/2022/01/3rd.jpg 1280w" sizes="(max-width: 768px) 100vw, 768px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>
@@ -260,7 +268,7 @@
 		<category><![CDATA[Fun events]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=1587</guid>
 
-					<description><![CDATA[<p>Detailed Rules and Regulations:1. Register for the event Here2. You will be added to the WhatsApp group of the event.3. The name of the game is (MultiCraft) you can download it from Play Store or by using this link:For Android:-https://play.google.com/store/apps/detailsid=com.multicraft.game&#38;hl=en_IN&#38;g=USFor iOS :-https://apps.apple.com/ca/app/multicrft-build-and-mine/id11740392764. Design the Civil EngineeringStructureinsingle player creative mode. ( Try to build your structureoffline [&#8230;]</p>
+					<description><![CDATA[<p>Detailed Rules and Regulations:1. Register for the event Here2. You will be added to the WhatsApp group of the event.3. The name of the game is (MultiCraft) you can download it from Play Store or by using this link:For Android:- DownloadFor iOS:- Download4. Design the Civil Engineering Structure in single-player creative mode. (Try to build [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/design-mania/">Design Mania</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1587" class="elementor elementor-1587" data-elementor-settings="[]">
@@ -271,7 +279,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-84b55a9 elementor-widget elementor-widget-text-editor" data-id="84b55a9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><span class="fontstyle0"><strong>Detailed Rules and Regulations:</strong><br /></span><span class="fontstyle2">1. Register for the event <a href="https://i-gnez.tech/events/ce/designmania" target="_blank" rel="noopener">Here</a></span><span class="fontstyle2"><br /></span><span class="fontstyle2">2. You will be added to the WhatsApp group of the event.<br />3. The name of the game is (MultiCraft) you can download it from Play Store or by using this link:<br /></span><span class="fontstyle2">For Android:-<br /></span><span class="fontstyle2">https://play.google.com/store/apps/detailsid=com.multicraft.game&amp;hl=en_IN&amp;g=US<br /></span><span class="fontstyle2">For iOS :-<br /></span><span class="fontstyle2">https://apps.apple.com/ca/app/multicrft-build-and-mine/id1174039276<br /></span><span class="fontstyle2">4. Design the Civil EngineeringStructureinsingle player creative mode. ( Try to build your structure<br />offline as the game may contain some adds )<br />5. Afterdesigningconverttheworldofyours into<br />zip format.Placezipfileinyourgoogle drive and<br />provide the link to us.<br />6. Demovideoforthiswillbeavailableon<br />WhatsApp group.<br />7. You need to upload a total of 4 files by using this link<br /></span><span class="fontstyle2">https://docs.google.com/forms/d/e/1FAIpQLScncyjg1NzAkYOyif9mI7ZzaAENJaQ6lBkB7KO<br />tvDOY9I30Kw/viewform<br /></span><span class="fontstyle3">•</span><span class="fontstyle2">Screenshot of your structure when it is <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />25% complete<br />50%complete<br />75% complete<br /></span><span class="fontstyle3">•</span><span class="fontstyle2">Zip file of your world in-game.</span> </p>						</div>
+							<p><span class="fontstyle0"><strong>Detailed Rules and Regulations:</strong><br /></span><span class="fontstyle2">1. Register for the event <strong><a href="https://i-gnez.tech/events/ce/designmania" target="_blank" rel="noopener">Here</a></strong></span><span class="fontstyle2"><br /></span><span class="fontstyle2">2. You will be added to the WhatsApp group of the event.<br />3. The name of the game is (MultiCraft) you can download it from Play Store or by using this link:<br /></span><span class="fontstyle2">For Android:- <strong><a href="https://play.google.com/store/apps/detailsid=com.multicraft.game&amp;hl=en_IN&amp;g=US">Download</a></strong></span><span class="fontstyle2"><br /></span><span class="fontstyle2">For iOS:- <strong><a href="https://apps.apple.com/ca/app/multicraft-build-and-mine/id1174039276">Download</a></strong></span><span class="fontstyle2"><br /></span><span class="fontstyle2">4. Design the Civil Engineering Structure in single-player creative mode. (Try to build your structure offline as the game may contain some ads)<br />5. Afterdesigningconverttheworldofyours into zip format. Place the zip file in your google drive and provide the link to us.<br />6. Demo video for this will be available on WhatsApp group.<br />7. You need to upload a total of 4 files by using this <strong><a href="https://docs.google.com/forms/d/e/1FAIpQLScncyjg1NzAkYOyif9mI7ZzaAENJaQ6lBkB7KOtvDOY9I30Kw/viewform">link</a></strong></span><span class="fontstyle2"><br /></span><span class="fontstyle3">•</span><span class="fontstyle2">Screenshot of your structure when it is <img src="https://s.w.org/images/core/emoji/13.1.0/72x72/1f642.png" alt="🙂" class="wp-smiley" style="height: 1em; max-height: 1em;" /><br />25% complete<br />50%complete<br />75% complete<br /></span><span class="fontstyle3">•</span><span class="fontstyle2">Zip file of your world in-game.</span></p>						</div>
 				</div>
 					</div>
 		</div>
@@ -279,7 +287,9 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-cddec88 elementor-widget elementor-widget-image" data-id="cddec88" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1024" height="880" src="https://acesgndec.me/wp-content/uploads/2021/05/Flyer-1024x880.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2021/05/Flyer-1024x880.jpeg 1024w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer-300x258.jpeg 300w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer-768x660.jpeg 768w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />															</div>
+																<a href="https://acesgndec.me/wp-content/uploads/2021/05/Flyer.jpeg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer">
+							<img width="1024" height="880" src="https://acesgndec.me/wp-content/uploads/2021/05/Flyer-1024x880.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2021/05/Flyer-1024x880.jpeg 1024w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer-300x258.jpeg 300w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer-768x660.jpeg 768w, https://acesgndec.me/wp-content/uploads/2021/05/Flyer.jpeg 1080w" sizes="(max-width: 1024px) 100vw, 1024px" />								</a>
+															</div>
 				</div>
 					</div>
 		</div>
@@ -353,6 +363,96 @@
 						</div>
 					</div>
 		<p>The post <a rel="nofollow" href="https://acesgndec.me/design-mania/">Design Mania</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Skillenzia</title>
+		<link>https://acesgndec.me/skillenzia/</link>
+		
+		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
+		<pubDate>Wed, 14 Apr 2021 10:45:12 +0000</pubDate>
+				<category><![CDATA[2020-2021]]></category>
+		<category><![CDATA[Fun events]]></category>
+		<category><![CDATA[Upcoming Events]]></category>
+		<guid isPermaLink="false">https://acesgndec.me/?p=1665</guid>
+
+					<description><![CDATA[<p>Skillenzia, an online event organised by Association of Civil Engineering  Students for the students of Guru Nanak Dev Engineering College. The aim  of this competition wasto enhance the creative skills, artistic skills, technical  skills, ability to work &#38; thinking capacity. The event held from 10th April 2021  to 17th April 2021. It was a submission [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://acesgndec.me/skillenzia/">Skillenzia</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1665" class="elementor elementor-1665" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-160a0ba elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="160a0ba" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8f48cb1" data-id="8f48cb1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c9b838e elementor-widget elementor-widget-text-editor" data-id="c9b838e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Skillenzia, an online event organised by Association of Civil Engineering  Students for the students of Guru Nanak Dev Engineering College. The aim  of this competition wasto enhance the creative skills, artistic skills, technical  skills, ability to work &amp; thinking capacity. The event held from 10<sup>th </sup>April 2021  to 17<sup>th </sup>April 2021. It was a submission type event and submissions were  accepted through guru.gndec.ac.in / moodle.</p><p>The event consists of three categories –</p><ol><li>Meme-O-mania</li><li>Pixel ‘21</li><li>VID ‘21</li></ol><p>The Topics of the event were:</p><ul><li>Meme-O-mania – Online classes</li><li>Pixel ’21 &#8211; Reflection</li><li>VID ’21- Sustainable development</li></ul><p>The event was judged by Prof. Yuvraj Singh. The event was conducted  successfully even in the online event. So, with the current state of things  prompting colleges to digitally engage their students in virtual events. A  number of students showed interest in the event by registering in the event  of skillenzia. Winners were honored with appreciation certificate and the  participants with participation certificates.</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-a7be847" data-id="a7be847" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-88df907 elementor-widget elementor-widget-image" data-id="88df907" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://acesgndec.me/wp-content/uploads/2022/02/Flyer.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-title="Flyer">
+							<img width="723" height="1024" src="https://acesgndec.me/wp-content/uploads/2022/02/Flyer-723x1024.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="https://acesgndec.me/wp-content/uploads/2022/02/Flyer-723x1024.jpg 723w, https://acesgndec.me/wp-content/uploads/2022/02/Flyer-212x300.jpg 212w, https://acesgndec.me/wp-content/uploads/2022/02/Flyer-768x1087.jpg 768w, https://acesgndec.me/wp-content/uploads/2022/02/Flyer.jpg 904w" sizes="(max-width: 723px) 100vw, 723px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b365c0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b365c0a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-570b796" data-id="570b796" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-53c2816 elementor-widget elementor-widget-heading" data-id="53c2816" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Winners</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-36b1088 elementor-widget elementor-widget-heading" data-id="36b1088" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Meme-o-Mania</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-63bc52c elementor-widget elementor-widget-text-editor" data-id="63bc52c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<table style="height: 203px;" width="541"><tbody><tr><td width="140"><strong>Position</strong></td><td width="205"><strong>Name</strong></td><td width="89"><strong>Branch</strong></td><td width="103"><strong>CRN</strong></td></tr><tr><td width="140"><strong>1st</strong></td><td width="205">Kunwardeep Singh</td><td width="89">IT</td><td width="103">2021138</td></tr><tr><td width="140"><strong>2nd</strong></td><td width="205">Sharanjit Kaur</td><td width="89">CE</td><td width="103">1914150</td></tr><tr><td width="140"><strong>3rd</strong></td><td width="205">Sahil Sharma</td><td width="89">CSE</td><td width="103">2015120</td></tr></tbody></table>						</div>
+				</div>
+				<div class="elementor-element elementor-element-a73a763 elementor-widget elementor-widget-heading" data-id="a73a763" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">PIXEL ‘21</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-03dfc26 elementor-widget elementor-widget-text-editor" data-id="03dfc26" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<table width="618"><tbody><tr><td width="129"><b>Position</b></td><td width="140"><b>Name </b></td><td width="205"><b>Branch </b></td><td width="144"><b>CRN </b></td></tr><tr><td width="129"><b>1st</b></td><td width="140">Ketan Singh</td><td width="205">CE</td><td width="144">1814061</td></tr><tr><td width="129"><b>2nd</b></td><td width="140">Gurkirat Singh</td><td width="205">CE</td><td width="144">2014024</td></tr><tr><td width="129"><b>3rd</b></td><td width="140">Kunwardeep Singh</td><td width="205">IT</td><td width="144">2021138</td></tr></tbody></table>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1abb910 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1abb910" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-63ff53d" data-id="63ff53d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f3abdf1 elementor-widget elementor-widget-heading" data-id="f3abdf1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Organizers</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ae7df67 elementor-widget elementor-widget-text-editor" data-id="ae7df67" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<table width="618"><tbody><tr><td width="129"><b>Sr. No.</b></td><td width="140"><b>Name </b></td><td width="205"><b>Year </b></td><td width="144"><b>CRN</b></td></tr><tr><td><b>1</b></td><td width="140">Nikhil </td><td width="205">D2 </td><td width="144">1914079</td></tr><tr><td><strong>2</strong></td><td width="140">Saurav Sagar </td><td width="205">D2 </td><td width="144">1914102</td></tr><tr><td><strong>3</strong></td><td width="140">Khushmeet Kaur </td><td width="205">D2 </td><td width="144">1914064</td></tr><tr><td><strong>4</strong></td><td width="140">Karamjeet Kaur </td><td width="205">D2 </td><td width="144">1914062</td></tr><tr><td><strong>5</strong></td><td width="140">Ananya Verma </td><td width="205">D2 </td><td width="144">1914124</td></tr><tr><td><b>6</b></td><td width="140">Prateek Kant </td><td width="205">D2 </td><td width="144">1914083</td></tr></tbody></table>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		<p>The post <a rel="nofollow" href="https://acesgndec.me/skillenzia/">Skillenzia</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></content:encoded>
 					
 		
