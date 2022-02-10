@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/seminar-webinar/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Tue, 08 Feb 2022 15:05:17 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 10 Feb 2022 04:44:05 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -32,8 +32,8 @@
 		<link>https://acesgndec.me/getting-started-with-gitgithub/</link>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
-		<pubDate>Tue, 25 Jan 2022 11:36:38 +0000</pubDate>
-				<category><![CDATA[2019-2020]]></category>
+		<pubDate>Sun, 27 Sep 2020 11:36:38 +0000</pubDate>
+				<category><![CDATA[2020-2021]]></category>
 		<category><![CDATA[Seminar/webinar]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=180</guid>
 
