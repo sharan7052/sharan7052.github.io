@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/wishes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Fri, 11 Feb 2022 10:05:05 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Feb 2022 14:08:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,9 +28,9 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Happy Teacher&#8217;s Day 2021</title>
-		<link>https://acesgndec.me/happy-teachers-day-2021/</link>
-					<comments>https://acesgndec.me/happy-teachers-day-2021/#respond</comments>
+		<title>Teacher&#8217;s Day 2021</title>
+		<link>https://acesgndec.me/teachers-day-2021/</link>
+					<comments>https://acesgndec.me/teachers-day-2021/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 05 Sep 2021 04:05:22 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<guid isPermaLink="false">https://acesgndec.me/?p=1525</guid>
 
 					<description><![CDATA[<p>ACES wishes you a Happy Teacher&#8217;s Day Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to respect our teachers [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://acesgndec.me/happy-teachers-day-2021/">Happy Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+<p>The post <a rel="nofollow" href="https://acesgndec.me/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1525" class="elementor elementor-1525" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
@@ -87,10 +87,10 @@ On this day the members of aces showed their respect towards teachers by wishing
 		</section>
 						</div>
 					</div>
-		<p>The post <a rel="nofollow" href="https://acesgndec.me/happy-teachers-day-2021/">Happy Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
+		<p>The post <a rel="nofollow" href="https://acesgndec.me/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://acesgndec.me/happy-teachers-day-2021/feed/</wfw:commentRss>
+					<wfw:commentRss>https://acesgndec.me/teachers-day-2021/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4" length="35442234" type="video/mp4" />

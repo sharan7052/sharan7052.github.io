@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/competition/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Fri, 11 Feb 2022 03:22:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 11 Feb 2022 10:45:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -192,7 +192,7 @@
 				</div>
 				<div class="elementor-element elementor-element-ef838bf elementor-widget elementor-widget-text-editor" data-id="ef838bf" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<table width="577"><tbody><tr><td width="143"><strong>Name </strong></td><td width="74"><strong>URN </strong></td><td width="282"><strong>Department </strong></td><td width="78"><b>Position</b></td></tr><tr><td width="143">AMRIT PAL SINGH </td><td width="74">1815309</td><td width="282">Computer Science Engineering </td><td width="78">1st</td></tr><tr><td width="143">GURLEEN KAUR </td><td width="74">1915027</td><td width="282">Computer Science Engineering </td><td width="78">2nd</td></tr><tr><td width="143">MAYANK THAKUR </td><td width="74">1815048</td><td width="282">Computer Science Engineering </td><td width="78">3rd</td></tr></tbody></table>						</div>
+							<table width="418"><tbody><tr><td style="font-weight: 400;" width="56"><strong>Position</strong></td><td style="font-weight: 400;" width="114"><strong>Name</strong></td><td style="font-weight: 400;" width="190"><strong>Department</strong></td><td style="font-weight: 400;" width="58"><strong>URN</strong></td></tr><tr><td style="font-weight: 400;"><strong>1st</strong></td><td style="font-weight: 400;">AMRIT PAL SINGH</td><td style="font-weight: 400;">Computer Science Engineering</td><td style="font-weight: 400;">1815309</td></tr><tr><td style="font-weight: 400;"><strong>2nd</strong></td><td style="font-weight: 400;">GURLEEN KAUR</td><td style="font-weight: 400;">Computer Science Engineering</td><td style="font-weight: 400;">1915027</td></tr><tr><td style="font-weight: 400;"><strong>3rd</strong></td><td style="font-weight: 400;">MAYANK THAKUR</td><td style="font-weight: 400;">Computer Science Engineering</td><td style="font-weight: 400;">1815048</td></tr></tbody></table>						</div>
 				</div>
 					</div>
 		</div>
@@ -233,7 +233,7 @@
 		<category><![CDATA[Technical events]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=1606</guid>
 
-					<description><![CDATA[<p>Event: Bridge Constructor The event will consist of 2 Rounds: a)  First Round: Quiz-Picto-Mania b) Second Round : Pont- Bâtiment Rules For Quiz-Picto-Mania: This round will contain a quiz based on current affairs, general knowledge with logo, and Historical Architectural identification (pictorial form). The quiz will contain 15 questions : 5 Questions: Current Affairs and [&#8230;]</p>
+					<description><![CDATA[<p>Event: Bridge Constructor The event will consist of 2 Rounds: a)&#160; First Round: Quiz-Picto-Mania b) Second Round : Pont- Bâtiment Rules For Quiz-Picto-Mania: This round will contain a quiz based on current affairs, general knowledge with logo, and Historical Architectural identification (pictorial form). The quiz will contain 15 questions : 5 Questions: Current Affairs and [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/bridge-constructor/">Bridge Constructor</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1606" class="elementor elementor-1606" data-elementor-settings="[]">
@@ -244,7 +244,38 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5c87e2d elementor-widget elementor-widget-text-editor" data-id="5c87e2d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>Event: Bridge Constructor</strong></p><p>The event will consist of 2 Rounds: a)  First Round: <strong>Quiz-Picto-Mania</strong></p><ol><li>b) Second Round :<strong> Pont- Bâtiment</strong></li></ol><p><strong>Rules For Quiz-Picto-Mania:</strong></p><ol><li>This round will contain a quiz based on current affairs, general knowledge with logo, and Historical Architectural identification (pictorial form).</li><li><strong>The quiz will contain 15 questions</strong> :<ol><li>5 Questions: Current Affairs and General Knowledge (1 mark each).</li><li>5 Questions:  Historical Architectural IdentificationPIctorial (2 marks each).</li><li>5 Questions: Pictorial test of the logo (2 marks each).</li></ol></li><li><strong> </strong>The quiz will be in the form of multiple-choice questions and will be time bounded i.e Each Question will have a time limit.</li><li>A platform for quizzes will be  <strong>Kahoot.</strong></li></ol><p><strong>Result: </strong>On the basis of the Results of the Quiz-Picto-Mania Round we will select the top 15 participants for our Mega Round i.e <strong> </strong><strong>Pont Bâtiment.</strong></p><p><strong>Note: </strong>In case of a tie between participants the least incorrect answer will be considered.</p><p><strong>Rules For Pont-</strong><strong>Bâtiment</strong></p><ol><li>All the participants will be given three days to complete the project.</li><li>We will provide a list of 25 things from which participants have to use a minimum of 10 things and a maximum of 25 things enlisted.</li><li>Participants cannot use anything that is not enlisted in the materials given below, if anything is used outside the enlisted material, the bridge model will not be considered.</li></ol><p><strong>Note: Participants can use anything other than 25 things listed present at their home due to Lockdown but a maximum of 25 only.</strong></p><ol><li>During the model-making process, participants have to click 10 photos of the model showing the progress of the project.</li><li>A list of materials that participants have used is to be submitted in a PDF file.</li><li>Participants will be provided with Google Form for Submission where they have to upload those photos in the form of PDF.</li></ol>						</div>
+							<p><strong>Event: Bridge Constructor</strong></p>
+<p>The event will consist of 2 Rounds: a)&nbsp; First Round: <strong>Quiz-Picto-Mania</strong></p>
+<ol>
+<li>b) Second Round :<strong> Pont- Bâtiment</strong></li>
+</ol>
+<p><strong>Rules For Quiz-Picto-Mania:</strong></p>
+<ol>
+<li>This round will contain a quiz based on current affairs, general knowledge with logo, and Historical Architectural identification (pictorial form).</li>
+<li><strong>The quiz will contain 15 questions</strong> :
+<ol>
+<li>5 Questions: Current Affairs and General Knowledge (1 mark each).</li>
+<li>5 Questions:&nbsp; Historical Architectural IdentificationPIctorial (2 marks each).</li>
+<li>5 Questions: Pictorial test of the logo (2 marks each).</li>
+</ol>
+</li>
+<li><strong>&nbsp;</strong>The quiz will be in the form of multiple-choice questions and will be time bounded i.e Each Question will have a time limit.</li>
+<li>A platform for quizzes will be&nbsp; <strong>Kahoot.</strong></li>
+</ol>
+<p><strong>Result: </strong>On the basis of the Results of the Quiz-Picto-Mania Round we will select the top 15 participants for our Mega Round i.e <strong>&nbsp;</strong><strong>Pont Bâtiment.</strong></p>
+<p><strong>Note: </strong>In case of a tie between participants the least incorrect answer will be considered.</p>
+<p><strong>Rules For Pont-</strong><strong>Bâtiment</strong></p>
+<ol>
+<li>All the participants will be given three days to complete the project.</li>
+<li>We will provide a list of 25 things from which participants have to use a minimum of 10 things and a maximum of 25 things enlisted.</li>
+<li>Participants cannot use anything that is not enlisted in the materials given below, if anything is used outside the enlisted material, the bridge model will not be considered.</li>
+</ol>
+<p><strong>Note: Participants can use anything other than 25 things listed present at their home due to Lockdown but a maximum of 25 only.</strong></p>
+<ol>
+<li>During the model-making process, participants have to click 10 photos of the model showing the progress of the project.</li>
+<li>A list of materials that participants have used is to be submitted in a PDF file.</li>
+<li>Participants will be provided with Google Form for Submission where they have to upload those photos in the form of PDF.</li>
+</ol>						</div>
 				</div>
 					</div>
 		</div>
