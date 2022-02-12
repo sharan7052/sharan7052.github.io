@@ -12,7 +12,7 @@
 	<atom:link href="http://127.0.0.1/wordpress/category/wishes/feed/" rel="self" type="application/rss+xml" />
 	<link>https://acesgndec.me</link>
 	<description>Association of Civil Engineering Students</description>
-	<lastBuildDate>Fri, 11 Feb 2022 14:08:55 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 12 Feb 2022 08:54:31 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -30,7 +30,6 @@
 	<item>
 		<title>Teacher&#8217;s Day 2021</title>
 		<link>https://acesgndec.me/teachers-day-2021/</link>
-					<comments>https://acesgndec.me/teachers-day-2021/#respond</comments>
 		
 		<dc:creator><![CDATA[Sharanjit Singh]]></dc:creator>
 		<pubDate>Sun, 05 Sep 2021 04:05:22 +0000</pubDate>
@@ -38,21 +37,32 @@
 		<category><![CDATA[wishes]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=1525</guid>
 
-					<description><![CDATA[<p>ACES wishes you a Happy Teacher&#8217;s Day Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to respect our teachers [&#8230;]</p>
+					<description><![CDATA[<p>Teacher&#8217;s Day 2021 ACES wishes you a Happy Teacher&#8217;s Day Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1525" class="elementor elementor-1525" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-230b43a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="230b43a" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-9ab4188 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="9ab4188" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c1cb785" data-id="c1cb785" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-56b667a elementor-widget elementor-widget-heading" data-id="56b667a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Teacher's Day 2021</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-230b43a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="230b43a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8c27af9" data-id="8c27af9" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-45cf1e5 elementor-widget elementor-widget-text-editor" data-id="45cf1e5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h1>ACES wishes you a Happy Teacher&#8217;s Day</h1>
-Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to respect our teachers and give them all the regard they deserve.
-On this day the members of aces showed their respect towards teachers by wishing them on this auspicious day.						</div>
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<h1>ACES wishes you a Happy Teacher&#8217;s Day</h1><p>Teacher’s Day is the festival of the birth anniversary of Bharat Ratna beneficiary Dr. Sarvapalli Radhakrishnan. He was a practical and inspirational teacher whom each student of the country used to cherish. In memory of his contributions as a teacher, we praise Teacher’s Day to respect our teachers and give them all the regard they deserve. On this day the members of aces showed their respect towards teachers by wishing them on this auspicious day.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -90,8 +100,6 @@ On this day the members of aces showed their respect towards teachers by wishing
 		<p>The post <a rel="nofollow" href="https://acesgndec.me/teachers-day-2021/">Teacher&#8217;s Day 2021</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://acesgndec.me/teachers-day-2021/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		<enclosure url="https://acesgndec.me/wp-content/uploads/2021/09/Teachers-day-2021-2.mp4" length="35442234" type="video/mp4" />
 
@@ -106,18 +114,22 @@ On this day the members of aces showed their respect towards teachers by wishing
 		<category><![CDATA[wishes]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=2053</guid>
 
-					<description><![CDATA[<p>Engineer&#8217;s Day is observed in several countries on various dates of the year. As of 19 January 1996, the World Federation of Engineering Organizations has designated March 4th as &#8216;World Engineering Day for a Sustainable World&#8217;.</p>
+					<description><![CDATA[<p>Engineer&#8217;s Day Engineer&#8217;s Day is observed in several countries on various dates of the year. As of 19 January 1996, the World Federation of Engineering Organizations has designated March 4th as &#8216;World Engineering Day for a Sustainable World&#8217;.</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/engineers-day/">Engineer&#8217;s Day</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="2053" class="elementor elementor-2053" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-ea22f29 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ea22f29" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-596effe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="596effe" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3dad48e" data-id="3dad48e" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-df2d334" data-id="df2d334" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a175bb5 elementor-widget elementor-widget-text-editor" data-id="a175bb5" data-element_type="widget" data-widget_type="text-editor.default">
+								<div class="elementor-element elementor-element-5599d3a elementor-widget elementor-widget-heading" data-id="5599d3a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-							Engineer&#8217;s Day is observed in several countries on various dates of the year. As of 19 January 1996, the World Federation of Engineering Organizations has designated March 4th as &#8216;World Engineering Day for a Sustainable World&#8217;.						</div>
+			<div class="elementor-heading-title elementor-size-default">Engineer's Day</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-a175bb5 elementor-widget elementor-widget-text-editor" data-id="a175bb5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p style="text-align: center;">Engineer&#8217;s Day is observed in several countries on various dates of the year. As of 19 January 1996, the World Federation of Engineering Organizations has designated March 4th as &#8216;World Engineering Day for a Sustainable World&#8217;.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -161,12 +173,24 @@ On this day the members of aces showed their respect towards teachers by wishing
 		<category><![CDATA[wishes]]></category>
 		<guid isPermaLink="false">https://acesgndec.me/?p=1894</guid>
 
-					<description><![CDATA[<p>In this situation of pandemic Association of Civil Engineering Students (ACES) celebrated Teacher’s Day on 5th September, 2020 on the birth anniversary of a great teacher Dr. Sarvepalli Radhakrishnan. All the teachers of Civil Department were honoured by sending them a dedicated video with glimpse of pictures of pre-Covid period and a greeting card. Organizers [&#8230;]</p>
+					<description><![CDATA[<p>Teacher&#8217;s Day 2k20 In this situation of pandemic Association of Civil Engineering Students (ACES) celebrated Teacher’s Day on 5th September, 2020 on the birth anniversary of a great teacher Dr. Sarvepalli Radhakrishnan. All the teachers of Civil Department were honoured by sending them a dedicated video with glimpse of pictures of pre-Covid period and a [&#8230;]</p>
 <p>The post <a rel="nofollow" href="https://acesgndec.me/teachers-day-2k20/">Teacher&#8217;s Day 2k20</a> appeared first on <a rel="nofollow" href="https://acesgndec.me">ACES</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1894" class="elementor elementor-1894" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-b52042e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b52042e" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-813053b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="813053b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2d721ca" data-id="2d721ca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-12289db elementor-widget elementor-widget-heading" data-id="12289db" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Teacher's Day 2k20</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b52042e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b52042e" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1e25056" data-id="1e25056" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -196,8 +220,7 @@ On this day the members of aces showed their respect towards teachers by wishing
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-c66b31c elementor-widget elementor-widget-heading" data-id="c66b31c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.5 - 03-02-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><div class="elementor-heading-title elementor-size-default">Organizers</div>		</div>
+			<div class="elementor-heading-title elementor-size-default">Organizers</div>		</div>
 				</div>
 				<div class="elementor-element elementor-element-bc4c723 elementor-widget elementor-widget-text-editor" data-id="bc4c723" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
